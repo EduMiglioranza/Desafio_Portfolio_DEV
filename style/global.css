@@ -31,6 +31,10 @@
     --font-maven-pro: "Maven Pro", sans-serif;
     --txt-md: 16px/140% var(--font-maven-pro);
     --txt-sm: 14px/140% var(--font-maven-pro);
+
+    /*-- Images --*/
+
+    --image_blue:"_blue";
 }
 
 body{
