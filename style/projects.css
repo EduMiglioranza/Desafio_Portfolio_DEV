@@ -28,7 +28,6 @@
             background-color: var(--gray-300);
             border-radius: 12px;
 
-
             img{
                 width: 330px;
                 border-radius: 8px;
@@ -44,6 +43,10 @@
             }
         
 
+        }
+
+        li:hover{
+            border: 2px solid var(--gray-400);
         }
     }
 
