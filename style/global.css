@@ -26,9 +26,36 @@
     --title-sm: bold 16px/120% var(--font-asap);
 
     --font-inconsolata: "Inconsolata", monospace;
-    --subtitle: 20px/120% var(--font-inconsolata);
+    --subtitle: 400 20px/120% var(--font-inconsolata);
 
     --font-maven-pro: "Maven Pro", sans-serif;
     --txt-md: 16px/140% var(--font-maven-pro);
     --txt-sm: 14px/140% var(--font-maven-pro);
+}
+
+h1, h2, h3{
+    font-family: var(--font-asap);
+}
+
+h1{
+    font: var(--title-lg);
+}
+h2{
+    font: var(--title-md)
+}
+
+h3{
+    font: var(--title-sm)
+}
+
+p{
+    font: var(--txt-sm);
+}
+
+.subtilte{
+    font: var(--subtitle);
+}
+
+.txt_md{
+    font: var(--txt-md);
 }
