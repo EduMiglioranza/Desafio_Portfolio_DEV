@@ -1,0 +1,28 @@
+/*- Fonts and colors -*/
+.subtilte{
+    font: var(--subtitle);
+}
+
+.txt_md{
+    font: var(--txt-md);
+}
+
+.red{
+    color: var(--red);
+}
+
+.purple{
+    color: var(--purple);
+}
+
+.blue{
+    color: var(--blue);
+}
+
+.green{
+    color: var(--green);
+}
+
+.yellow{
+    color: var(--yellow);
+}
