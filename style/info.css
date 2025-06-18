@@ -20,6 +20,9 @@
         gap: 80px;
     }
 
+    & > img {
+        margin: auto;
+    }
 }
 
 
